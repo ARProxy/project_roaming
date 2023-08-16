@@ -34,7 +34,7 @@ public class RestUserController {
 		}
 		return map;
 	}
-	
+
 	@RequestMapping("loginOrSign")
 	 public Map<String, Object> loginOrSign(String kid,String name,String gender,String pimg,HttpSession session) {
 	      Map<String, Object> map = new HashMap<>();

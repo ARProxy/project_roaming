@@ -15,7 +15,7 @@
 	</properties>
 	<dependencies>
 		<!-- ja: 추가 라이브러리 시작 -->
-				<!-- html escape 관련 라이브러리 -->
+		<!-- html escape 관련 라이브러리 -->
 		<dependency>
 		    <groupId>org.apache.commons</groupId>
 		    <artifactId>commons-text</artifactId>
@@ -35,7 +35,7 @@
 			<version>1.4.7</version>
 		</dependency>
 		
-		<!-- 업로드용 파일 파서... -->
+		<!-- 업로드용 파일 -->
 		<dependency>
 			<groupId>commons-fileupload</groupId>
 			<artifactId>commons-fileupload</artifactId>
