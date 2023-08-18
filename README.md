@@ -26,3 +26,15 @@
 * 필수 약관 내용에 동의하는지 검사
 <br/><br/>
 
+## 커뮤니티 들어가기
+![005](https://user-images.githubusercontent.com/131675760/261494443-fd0045d1-ddd4-4452-9b81-7c3ebc1fe7f4.png)
+### 제가 구현한 커뮤니티를 들어갑니다.
+<br/><br/>
+
+## 커뮤니티 홈
+![006](https://user-images.githubusercontent.com/131675760/261494491-c4cb123b-5134-4623-a577-12c5d1ddf099.png)
+### 홈에서는 UNOIN 쿼리를 이용하여 모든 게시물을 한번에 확인할 수 있습니다.
+![007](https://user-images.githubusercontent.com/131675760/261494782-5591689f-1c75-42ec-acc9-1fd1b458ea0b.png)
+### 각각의 게시물에 대해 모든 기능을 수행할 수 있습니다.
+![008](https://user-images.githubusercontent.com/131675760/261494795-a66040a3-70d1-44d5-9791-f015c2efbfd1.png)
+### 더보기를 누르거나 댓글 아이콘을 누르면 모달로 크게 보여줍니다.
