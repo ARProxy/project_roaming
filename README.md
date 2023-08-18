@@ -3,10 +3,10 @@
 
 사이트 URL : http://13.125.213.74:8080/roaming/userboard/mainPage
 
-## 웹사이트 설명
-
+## 로밍 사이트
 ![001](https://user-images.githubusercontent.com/131675760/261490289-adddcd82-df6f-41ff-b682-2b5128c43871.png)
-### 메인 페이지
+
+## 메인 페이지
 ![002](https://user-images.githubusercontent.com/131675760/261490308-5830faf0-c5fb-4ae4-9da9-8d242151ad8d.png)
 ### 먼저 로그인을 하지 않은 채 메인 페이지를 들어가면 동행찾기, 커뮤니티, 숙소예약, 짐서비스, 포인트샵 순으로 보여줍니다.
 ### 로그인을 하면 상세 보기를 눌러 각 기능 페이지에 들어갈 수 있습니다.
